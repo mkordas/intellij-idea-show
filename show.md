@@ -128,6 +128,18 @@ To change visibility press CTRL + ALT + C twice.
 CTRL + ALT + T
 hashCode() == 1
 
+## Writing code
+
+##### Static imports on the fly
+Since 2016.1 it's possible to just press ALT + ENTER to add missing import
+
+## Inspections
+
+##### Declaration access can be weaker
+
+IDEA 2016.1 comes with inspection to prevent making fields, methods and classes
+ public unnecessarily. See `PayOneZlotyForMe`.
+
 Ideas:
 - gradle new project
 - color picker
