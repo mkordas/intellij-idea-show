@@ -61,6 +61,12 @@ Tabs Placement: None
 * Close All
 * Close Others
 
+### Windows
+
+###### Hide All Windows
+Sometimes I see people working with so tiny window.
+Don't do that. Press CTRL + SHIFT + F12 to get some freedom.
+
 ### Selection
 
 ##### Smart Selection
