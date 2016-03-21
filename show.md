@@ -86,6 +86,15 @@ Context sensitive:
 * CTRL + W
 * CTRL + SHIFT + W
 
+### Moving
+
+###### Move element right and left
+
+To move statements to the left or right press ALT + CTRL + SHIFT
+* XML
+* method parameters
+* elements in an array
+
 ### Context
 
 ##### Parameter Info
