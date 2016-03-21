@@ -53,8 +53,11 @@ Generally a bad idea to use tabs. They distract, you spend
  too much time to look for proper tab.
 
 ###### Change Tabs
-Tabs Placement: Left
-Tabs Placement: None
+* `Tabs Placement: Left`
+* `Tabs Placement: None`
+* `Window: Small labels in editor tabs`
+* `Use file colors in editor tabs`
+* `Show "close" button on editor tabs`
 
 ###### Closing Tabs
 * CTRL + F4 - Close current
@@ -66,6 +69,15 @@ Tabs Placement: None
 ###### Hide All Windows
 Sometimes I see people working with so tiny window.
 Don't do that. Press CTRL + SHIFT + F12 to get some freedom.
+
+##### Switcher
+Press CTRL + TAB to see convenient window switcher:
+* CTRL + TAB and CTRL + SHIFT + TAB to navigate
+* While CTRL remain pressed
+ * numbers
+ * cursors
+ * press delete/backspace to close (magic!)
+ * CTRL + SHIFT + UP/DOWN to shrink/extend
 
 ### Selection
 
