@@ -96,7 +96,8 @@ CTLR + SHIFT + ALT + CLICK
 
 ###### Move element right and left
 
-To move statements to the left or right press ALT + CTRL + SHIFT
+To move statements to the left or right press
+ ALT + CTRL + SHIFT + LEFT/RIGHT
 * XML
 * method parameters
 * elements in an array
