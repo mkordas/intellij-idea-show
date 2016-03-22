@@ -3,7 +3,10 @@
 ## Introduction
 
 ###### Whitespaces
-Show whitespaces in
+"Appearance: Show whitespaces" in `TabsVsSpaces`
+
+###### Line Numbers
+\#editor line numbers
 
 ## Look and Feel
 
@@ -61,8 +64,9 @@ Generally a bad idea to use tabs. They distract, you spend
 
 ###### Closing Tabs
 * CTRL + F4 - Close current
-* Close All
+* ALT + click on close - closes others
 * Close Others
+* Close All
 
 ### Windows
 
@@ -78,6 +82,10 @@ Press CTRL + TAB to see convenient window switcher:
  * cursors
  * press delete/backspace to close (magic!)
  * CTRL + SHIFT + UP/DOWN to shrink/extend
+
+##### Opening New Window
+* SHIFT + F4 - current to new
+* SHIFT + ENTER - open in new
 
 ### Selection
 
