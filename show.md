@@ -57,6 +57,10 @@ CTRL + E (+enter)
 CTRL + SHIFT + E
 SHIFT x 2
 
+##### Structure
+CTRL + F12
+ALT + 7
+
 ### Tabs
 
 ###### ALT + LEFT/RIGHT
