@@ -8,6 +8,10 @@
 ###### Line Numbers
 \#editor line numbers
 
+###### CamelHumps
+CTRL + SHIFT + A
+CamelHumps
+
 ## Look and Feel
 
 ###### Switch Menu
@@ -145,6 +149,11 @@ hashCode() == 1
 
 ## Writing code
 
+##### Quick Variable
+* Type `new ArLi` + CTRL + ALT + V
+* Change "case sensitive completion" setting to "None"
+  and type `new arli`
+
 ##### Reformatting
 CTRL + ALT + L (twice)
 CTRL + ALT + O
@@ -166,6 +175,9 @@ If none of the symbols available have compatible type, but chained methods do,
 ###### Static Imports
 In 2016.1 it's much easier to add static imports. Just press ALT + ENTER.
 To gain even more boost, you can enable "Add unambiguous imports on the fly option".
+
+###### HippieCompletion
+ALT + /
 
 ## Inspections
 
