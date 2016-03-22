@@ -52,6 +52,11 @@ Back to places you've seen. Problems with drivers!
 ###### CTRL + SHIFT + BACKSPACE
 To the last modified place.
 
+##### Recent Files
+CTRL + E (+enter)
+CTRL + SHIFT + E
+SHIFT x 2
+
 ### Tabs
 
 ###### ALT + LEFT/RIGHT
@@ -91,12 +96,21 @@ Press CTRL + TAB to see convenient window switcher:
 * SHIFT + F4 - current to new
 * SHIFT + ENTER - open in new
 
+###### Documentation
+CTRL + Q
+
+###### Quick Definition
+CTRL + SHIFT + I
+
 ### Selection
 
 ##### Smart Selection
 Context sensitive:
 * CTRL + W
 * CTRL + SHIFT + W
+
+###### Usage Highlighting
+CTRL + SHIFT + F7
 
 ##### Multiselection
 ALT + SHIFT + INSERT
