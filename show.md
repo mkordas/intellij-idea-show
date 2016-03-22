@@ -61,6 +61,13 @@ SHIFT x 2
 CTRL + F12
 ALT + 7
 
+###### Select in
+ALT + F1
+* project
+* structure
+* VCS
+* files
+
 ### Tabs
 
 ###### ALT + LEFT/RIGHT
