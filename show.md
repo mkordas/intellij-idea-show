@@ -130,8 +130,27 @@ hashCode() == 1
 
 ## Writing code
 
+##### Reformatting
+CTRL + ALT + L (twice)
+CTRL + ALT + O
+
+##### Adjust Code Style
+ALT + ENTER on selection.
+
 ##### Static imports on the fly
 Since 2016.1 it's possible to just press ALT + ENTER to add missing import
+
+#### Completion
+
+###### Chain completion
+
+If none of the symbols available have compatible type, but chained methods do,
+ then press CTRL + SHIFT + SPACE twice. Try with `List list = ` and choose
+ `Arrays.asList`.
+
+###### Static Imports
+In 2016.1 it's much easier to add static imports. Just press ALT + ENTER.
+To gain even more boost, you can enable "Add unambiguous imports on the fly option".
 
 ## Inspections
 
@@ -139,6 +158,30 @@ Since 2016.1 it's possible to just press ALT + ENTER to add missing import
 
 IDEA 2016.1 comes with inspection to prevent making fields, methods and classes
  public unnecessarily. See `PayOneZlotyForMe`.
+
+## Debugging
+* ALT + SHIFT + F9
+* CTRL + F8
+* CTRL + SHIFT + F8
+* F9 F8 F7
+* Run to cursor
+* Drop Frame
+* Force Return
+
+## Terminal
+Open with ALT + F12.
+
+###### Exiting
+* ALT + 2 in IDEA 15
+* ALT + 9, SHIFT + ESC, ALT + F12 in IDEA 2016.1
+* CTRL + D
+
+###### Searching
+Just CTRL + F in IDEA 2016.1!
+
+###### Tabs
+CTRL + SHIFT + T
+CTRL + SHIFT + W
 
 Ideas:
 - gradle new project
