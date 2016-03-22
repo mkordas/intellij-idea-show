@@ -174,6 +174,10 @@ To gain even more boost, you can enable "Add unambiguous imports on the fly opti
 IDEA 2016.1 comes with inspection to prevent making fields, methods and classes
  public unnecessarily. See `PayOneZlotyForMe`.
 
+##### DSM
+ALT + Z
+Analyze Dependency Matrix
+
 ## Debugging
 * ALT + SHIFT + F9
 * CTRL + F8
