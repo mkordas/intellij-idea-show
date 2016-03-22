@@ -86,6 +86,12 @@ Context sensitive:
 * CTRL + W
 * CTRL + SHIFT + W
 
+##### Multiselection
+ALT + SHIFT + INSERT
+ALT + J
+CTLR + SHIFT + ALT + J
+CTLR + SHIFT + ALT + CLICK
+
 ### Moving
 
 ###### Move element right and left
