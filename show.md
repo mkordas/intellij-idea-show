@@ -68,6 +68,12 @@ ALT + F1
 * VCS
 * files
 
+###### F12
+Goes back to last used pane. ESC to go to code.
+
+###### Hierarchies
+Go to `ImplementMe`
+
 ### Tabs
 
 ###### ALT + LEFT/RIGHT
