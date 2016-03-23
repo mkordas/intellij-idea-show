@@ -136,10 +136,10 @@ Context sensitive:
 CTRL + SHIFT + F7
 
 ##### Multiselection
-ALT + SHIFT + INSERT
-ALT + J
-CTLR + SHIFT + ALT + J
-CTLR + SHIFT + ALT + CLICK
+* ALT + SHIFT + INSERT
+* ALT + J
+* CTLR + SHIFT + ALT + J
+* CTLR + SHIFT + ALT + CLICK
 
 ### Moving
 
@@ -181,8 +181,8 @@ CTRL + ALT + C - by default public.
 To change visibility press CTRL + ALT + C twice.
 
 #### Surround with
-CTRL + ALT + T
-hashCode() == 1
+* CTRL + ALT + T
+* Show e.g. with `hashCode() == 1`
 
 ## Writing code
 
