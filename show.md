@@ -198,6 +198,16 @@ To change visibility press CTRL + ALT + C twice.
 #### Surround with
 * CTRL + ALT + T
 * Show e.g. with `hashCode() == 1`
+* 
+##### Copy & Move
+* F5 to copy class
+* F6 to move
+ * classes
+ * static fields
+ * static methods
+ 
+##### Refactor This
+CTRL + ALT + SHIFT + T
 
 ## Writing code
 
