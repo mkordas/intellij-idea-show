@@ -15,7 +15,7 @@
 ## Look and Feel
 
 ##### Switch Menu
-Press CTRL + `.
+Press CTRL + `.`
 
 * Look and Feel
 * Color Scheme
