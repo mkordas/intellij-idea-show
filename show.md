@@ -204,6 +204,12 @@ Since 2016.1 it's possible to just press ALT + ENTER to add missing import
 
 #### Completion
 
+##### Cancel Completion
+CTRL + UP/DOWN to cancel completion and move
+
+##### Finish Completion
+Completion can be finished with `.`, `,` and others
+
 ##### Chain completion
 
 If none of the symbols available have compatible type, but chained methods do,
