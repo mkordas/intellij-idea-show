@@ -151,7 +151,11 @@ CTRL + SHIFT + F7
 * ALT + J
 * CTLR + SHIFT + ALT + J
 * CTLR + SHIFT + ALT + CLICK
-
+ 
+### Creation
+* use ALT + INSERT
+* provide fully qualified names to create directories
+ 
 ### Moving
 
 ##### Move element right and left
