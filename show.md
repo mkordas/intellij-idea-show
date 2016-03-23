@@ -42,6 +42,7 @@ More things:
 * CTRL + UP + DOWN - history
 * `File Colors enabled`
 * file types
+* move to line and column
 
 ##### CTRL + N
 List just classes
