@@ -72,7 +72,13 @@ ALT + F1
 Goes back to last used pane. ESC to go to code.
 
 ###### Hierarchies
-Go to `ImplementMe`
+Go to `ImplementMe`.
+Call hierarchy with CTRL + ALT + H
+Draw diagram with CTRL + ALT + U
+
+#Bookmarks
+F11
+SHIFT + F11
 
 ### Tabs
 

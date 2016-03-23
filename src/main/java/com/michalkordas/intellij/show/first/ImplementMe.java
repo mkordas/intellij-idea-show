@@ -1,5 +1,8 @@
 package com.michalkordas.intellij.show.first;
 
+import java.io.Serializable;
+import java.util.RandomAccess;
+
 interface ImplementMe {
     int thisOne();
 }
@@ -11,7 +14,7 @@ class YesSir implements ImplementMe {
     }
 }
 
-class OhDear implements ImplementMe {
+class OhDear implements ImplementMe, Serializable, RandomAccess  {
     @Override
     public int thisOne() {
         new OneMore();
