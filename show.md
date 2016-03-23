@@ -77,8 +77,8 @@ Call hierarchy with CTRL + ALT + H
 Draw diagram with CTRL + ALT + U
 
 #Bookmarks
-F11
-SHIFT + F11
+*F11
+* SHIFT + F11
 
 ### Tabs
 
