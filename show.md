@@ -236,6 +236,9 @@ Since 2016.1 it's possible to just press ALT + ENTER to add missing import
 ##### TDD
 F2 and SHIFT + F2
 
+##### XPath
+CTRL + ALT + X
+
 #### Completion
 
 ##### Cancel Completion
@@ -300,9 +303,11 @@ Just CTRL + F in IDEA 2016.1!
 ##### Tabs
 * CTRL + SHIFT + T
 * CTRL + SHIFT + W
-
-Ideas:
-- gradle new project
-- color picker
+ 
+## Others
+* Color Picker
+* Show effective POM
+* Create Gradle new project
+- 
 - show Xpath
-- show effective POM
+- 
