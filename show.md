@@ -193,7 +193,8 @@ hashCode() == 1
 
 ##### Reformatting
 CTRL + ALT + L (twice)
-CTRL + ALT + O
+CTRL + ALT + I
+CTRL + O
 
 ##### Adjust Code Style
 ALT + ENTER on selection.
