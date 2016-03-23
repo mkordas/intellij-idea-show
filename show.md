@@ -308,6 +308,3 @@ Just CTRL + F in IDEA 2016.1!
 * Color Picker
 * Show effective POM
 * Create Gradle new project
-- 
-- show Xpath
-- 
