@@ -6,7 +6,7 @@
 "Appearance: Show whitespaces" in `TabsVsSpaces`
 
 ##### Line Numbers
-\#editor line numbers
+Type `#editor line numbers` in SHIFT x 2
 
 ##### CamelHumps
 * CTRL + SHIFT + A
