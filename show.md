@@ -76,8 +76,8 @@ Go to `ImplementMe`.
 Call hierarchy with CTRL + ALT + H
 Draw diagram with CTRL + ALT + U
 
-#Bookmarks
-*F11
+##### Bookmarks
+* F11
 * SHIFT + F11
 
 ### Tabs
