@@ -58,8 +58,8 @@ CTRL + SHIFT + E
 SHIFT x 2
 
 ##### Structure
-CTRL + F12
-ALT + 7
+* CTRL + F12
+* ALT + 7
 
 ##### Select in
 ALT + F1
