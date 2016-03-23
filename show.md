@@ -9,8 +9,8 @@
 \#editor line numbers
 
 ##### CamelHumps
-CTRL + SHIFT + A
-CamelHumps
+* CTRL + SHIFT + A
+* CamelHumps
 
 ## Look and Feel
 
