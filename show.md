@@ -186,6 +186,10 @@ To change visibility press CTRL + ALT + C twice.
 
 ## Writing code
 
+##### Emmet
+In XML type `report>header>date+messageId^trade>tradeHeader>party$*10`
+ and press TAB.
+
 ##### Quick Variable
 * Type `new ArLi` + CTRL + ALT + V
 * Change "case sensitive completion" setting to "None"
@@ -201,6 +205,9 @@ ALT + ENTER on selection.
 
 ##### Static imports on the fly
 Since 2016.1 it's possible to just press ALT + ENTER to add missing import
+
+##### TDD
+F2 and SHIFT + F2
 
 #### Completion
 
