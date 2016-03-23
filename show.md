@@ -15,7 +15,7 @@ Type `#editor line numbers` in SHIFT x 2
 ## Look and Feel
 
 ##### Switch Menu
-Press CTRL + `.`
+Press CTRL + `~`
 
 * Look and Feel
 * Color Scheme
