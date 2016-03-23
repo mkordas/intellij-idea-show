@@ -255,6 +255,10 @@ To gain even more boost, you can enable "Add unambiguous imports on the fly opti
 ##### HippieCompletion
 ALT + /
 
+##### Commenting Code
+* CTRL + `/`
+* CTRL + SHIFT + `/`
+
 ## Inspections
 
 ##### Declaration access can be weaker
