@@ -66,6 +66,12 @@ SHIFT x 2
 * CTRL + F12
 * ALT + 7
 
+##### Navigation Bar
+* ALT + HOME
+* use it as popup
+* add file with ALT + INSERT
+* search there
+
 ##### Select in
 ALT + F1
 * project
