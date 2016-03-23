@@ -240,7 +240,12 @@ F2 and SHIFT + F2
 CTRL + UP/DOWN to cancel completion and move
 
 ##### Finish Completion
-Completion can be finished with `.`, `,` and others
+Completion can be finished with
+* `.` (sometimes CTRL is needed)
+* `,`
+* `!` when boolean method is selected
+* CTRL + SHIFT + ENTER
+* CTRL + ALT + V
 
 ##### Chain completion
 
