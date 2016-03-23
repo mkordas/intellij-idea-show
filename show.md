@@ -248,9 +248,9 @@ Open with ALT + F12.
 ##### Searching
 Just CTRL + F in IDEA 2016.1!
 
- Tabs
-CTRL + SHIFT + T
-CTRL + SHIFT + W
+##### Tabs
+* CTRL + SHIFT + T
+* CTRL + SHIFT + W
 
 Ideas:
 - gradle new project
