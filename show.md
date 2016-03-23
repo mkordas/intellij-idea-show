@@ -192,9 +192,9 @@ To change visibility press CTRL + ALT + C twice.
   and type `new arli`
 
 ##### Reformatting
-CTRL + ALT + L (twice)
-CTRL + ALT + I
-CTRL + ALT + O
+* CTRL + ALT + L (twice)
+* CTRL + ALT + I
+* CTRL + ALT + O
 
 ##### Adjust Code Style
 ALT + ENTER on selection.
