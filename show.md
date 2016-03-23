@@ -184,10 +184,12 @@ Shows current declaration when it is not visible. Show in `TabsVsSpaces`
 * Single file
 * Entire directory/project
 * CTRL + SHIFT + V
+ 
+##### Recent Changes
+ALT + SHIFT + C
 
-CTRL + SHIFT + 1
-CTRL + Q
-Colours
+##### Move Between Changes
+CTRL + ALT + SHIFT + UP/DOWN
 
 ## Refactoring
 
