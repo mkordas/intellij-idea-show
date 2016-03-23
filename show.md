@@ -2,19 +2,19 @@
 
 ## Introduction
 
-###### Whitespaces
+##### Whitespaces
 "Appearance: Show whitespaces" in `TabsVsSpaces`
 
-###### Line Numbers
+##### Line Numbers
 \#editor line numbers
 
-###### CamelHumps
+##### CamelHumps
 CTRL + SHIFT + A
 CamelHumps
 
 ## Look and Feel
 
-###### Switch Menu
+##### Switch Menu
 Press CTRL + `.
 
 * Look and Feel
@@ -26,7 +26,7 @@ Press CTRL + `.
 
 ### Basic Navigation
 
-###### CTRL + SHIFT + N
+##### CTRL + SHIFT + N
 
 Having class `ProblemFactory` you can write:
 - ProFac
@@ -43,13 +43,13 @@ More things:
 * `File Colors enabled`
 * file types
 
-###### CTRL + N
+##### CTRL + N
 List just classes
 
-###### CTRL + ALT + LEFT/RIGHT
+##### CTRL + ALT + LEFT/RIGHT
 Back to places you've seen. Problems with drivers!
 
-###### CTRL + SHIFT + BACKSPACE
+##### CTRL + SHIFT + BACKSPACE
 To the last modified place.
 
 ##### Recent Files
@@ -61,17 +61,17 @@ SHIFT x 2
 CTRL + F12
 ALT + 7
 
-###### Select in
+##### Select in
 ALT + F1
 * project
 * structure
 * VCS
 * files
 
-###### F12
+##### F12
 Goes back to last used pane. ESC to go to code.
 
-###### Hierarchies
+##### Hierarchies
 Go to `ImplementMe`.
 Call hierarchy with CTRL + ALT + H
 Draw diagram with CTRL + ALT + U
@@ -82,19 +82,19 @@ SHIFT + F11
 
 ### Tabs
 
-###### ALT + LEFT/RIGHT
+##### ALT + LEFT/RIGHT
 
 Generally a bad idea to use tabs. They distract, you spend
  too much time to look for proper tab.
 
-###### Change Tabs
+##### Change Tabs
 * `Tabs Placement: Left`
 * `Tabs Placement: None`
 * `Window: Small labels in editor tabs`
 * `Use file colors in editor tabs`
 * `Show "close" button on editor tabs`
 
-###### Closing Tabs
+##### Closing Tabs
 * CTRL + F4 - Close current
 * ALT + click on close - closes others
 * Close Others
@@ -102,7 +102,7 @@ Generally a bad idea to use tabs. They distract, you spend
 
 ### Windows
 
-###### Hide All Windows
+##### Hide All Windows
 Sometimes I see people working with so tiny window.
 Don't do that. Press CTRL + SHIFT + F12 to get some freedom.
 
@@ -119,10 +119,10 @@ Press CTRL + TAB to see convenient window switcher:
 * SHIFT + F4 - current to new
 * SHIFT + ENTER - open in new
 
-###### Documentation
+##### Documentation
 CTRL + Q
 
-###### Quick Definition
+##### Quick Definition
 CTRL + SHIFT + I
 
 ### Selection
@@ -132,7 +132,7 @@ Context sensitive:
 * CTRL + W
 * CTRL + SHIFT + W
 
-###### Usage Highlighting
+##### Usage Highlighting
 CTRL + SHIFT + F7
 
 ##### Multiselection
@@ -143,7 +143,7 @@ CTLR + SHIFT + ALT + CLICK
 
 ### Moving
 
-###### Move element right and left
+##### Move element right and left
 
 To move statements to the left or right press
  ALT + CTRL + SHIFT + LEFT/RIGHT
@@ -204,17 +204,17 @@ Since 2016.1 it's possible to just press ALT + ENTER to add missing import
 
 #### Completion
 
-###### Chain completion
+##### Chain completion
 
 If none of the symbols available have compatible type, but chained methods do,
  then press CTRL + SHIFT + SPACE twice. Try with `List list = ` and choose
  `Arrays.asList`.
 
-###### Static Imports
+##### Static Imports
 In 2016.1 it's much easier to add static imports. Just press ALT + ENTER.
 To gain even more boost, you can enable "Add unambiguous imports on the fly option".
 
-###### HippieCompletion
+##### HippieCompletion
 ALT + /
 
 ## Inspections
@@ -240,15 +240,15 @@ Analyze Dependency Matrix
 ## Terminal
 Open with ALT + F12.
 
-###### Exiting
+##### Exiting
 * ALT + 2 in IDEA 15
 * ALT + 9, SHIFT + ESC, ALT + F12 in IDEA 2016.1
 * CTRL + D
 
-###### Searching
+##### Searching
 Just CTRL + F in IDEA 2016.1!
 
-###### Tabs
+ Tabs
 CTRL + SHIFT + T
 CTRL + SHIFT + W
 
