@@ -47,6 +47,10 @@ More things:
 ##### CTRL + N
 List just classes
 
+##### CTRL + SHIFT + ALT + N
+All methods and members. Present using `iKnowOnly`.
+Can be prefixed with fully qualified name.
+
 ##### CTRL + ALT + LEFT/RIGHT
 Back to places you've seen. Problems with drivers!
 
