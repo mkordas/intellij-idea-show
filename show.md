@@ -228,7 +228,7 @@ In XML type `report>header>date+messageId^trade>tradeHeader>party$*10`
 * CTRL + ALT + O
 
 ##### Adjust Code Style
-ALT + ENTER on selection.
+ALT + ENTER on selection
 
 ##### Static imports on the fly
 Since 2016.1 it's possible to just press ALT + ENTER to add missing import
