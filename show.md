@@ -120,7 +120,7 @@ Don't do that. Press CTRL + SHIFT + F12 to get some freedom.
 ##### Switcher
 Press CTRL + TAB to see convenient window switcher:
 * CTRL + TAB and CTRL + SHIFT + TAB to navigate
-* While CTRL remain pressed
+* While CTRL remains pressed
  * numbers
  * cursors
  * press delete/backspace to close (magic!)
