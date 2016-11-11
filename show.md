@@ -151,11 +151,12 @@ CTRL + SHIFT + F7
 * ALT + J
 * CTLR + SHIFT + ALT + J
 * CTLR + SHIFT + ALT + CLICK
- 
+* 2 x CTRL
+
 ### Creation
 * use ALT + INSERT
 * provide fully qualified names to create directories
- 
+
 ### Moving
 
 ##### Move element right and left
@@ -184,7 +185,7 @@ Shows current declaration when it is not visible. Show in `TabsVsSpaces`
 * Single file
 * Entire directory/project
 * CTRL + SHIFT + V
- 
+
 ##### Recent Changes
 ALT + SHIFT + C
 
@@ -207,7 +208,7 @@ To change visibility press CTRL + ALT + C twice.
  * classes
  * static fields
  * static methods
- 
+
 ##### Refactor This
 CTRL + ALT + SHIFT + T
 
@@ -303,7 +304,7 @@ Just CTRL + F in IDEA 2016.1!
 ##### Tabs
 * CTRL + SHIFT + T
 * CTRL + SHIFT + W
- 
+
 ## Others
 * Color Picker
 * Show effective POM
