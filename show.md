@@ -290,6 +290,18 @@ Analyze Dependency Matrix
 * Drop Frame
 * Force Return
 
+## Java 9
+
+### Jshell
+
+* expressions, variables, classes, methods
+* `/imports /methods /vars /help 
+
+## Puzzlers
+
+* `IAmBroken`
+* `cd target/classes`, `java ...`
+
 ## Terminal
 Open with ALT + F12.
 
