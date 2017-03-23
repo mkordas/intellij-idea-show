@@ -290,12 +290,62 @@ Analyze Dependency Matrix
 * Drop Frame
 * Force Return
 
+## Version Control
+
+### Log
+
+* thin stripe instead of rolling bar
+* CTRL + L (jump to search)
+* CTRL + F (jump to branch/hash)
+* regular expressions, case sensitivity 
+* choose several commits
+* date filtering
+* undo commit
+* Restore and Delete tracked branch
+* Managing Git remotes
+* case-only renames
+
+
+### Merge and Diff
+
+* ignore imports and formatting (but spaces in strings are preserved)
+* resolving simple conflicts
+
+### File History
+
+* performance
+* go to log
+* show changes from other branches
+
+## Unversioned files
+
+## Find in Path
+
+* preview is merged
+* all shortcuts work as before	
+
+## Various Recent Improvements
+
+* Recent Tests `Shift+Ctrl+;`
+* Flat file icons
+* Find by shortcut
+* font ligatures (Fira Code Pro)
+ * ![](https://raw.githubusercontent.com/tonsky/FiraCode/master/showcases/all_ligatures.png)
+ * != && >=
+* background image
+* inspections
+* notifications
+* composite builds
+* polyglot maven
+
 ## Java 9
 
 ### Jshell
 
 * expressions, variables, classes, methods
-* `/imports /methods /vars /help 
+* `/imports /methods /vars /help `
+
+## JUnit 5
 
 ## Puzzlers
 
