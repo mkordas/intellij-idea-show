@@ -2,15 +2,31 @@
 
 ## Introduction
 
-##### Whitespaces
-"Appearance: Show whitespaces" in `TabsVsSpaces`
+#####
+Learn IntelliJ when starting
+
+##### Show Whitespaces
+Type `/editor whitespaces` in SHIFT x 2
+Useful for `TabsVsSpaces`
 
 ##### Line Numbers
-Type `#editor line numbers` in SHIFT x 2
+Type `/editor line numbers` in SHIFT x 2
 
 ##### CamelHumps
-* CTRL + SHIFT + A
-* CamelHumps
+Type `/editor "CamelHumps` in SHIFT x 2
+
+##### Search git objects
+in SHIFT x2
+
+##### Calculate
+`sqrt(42)`
+
+##### Run anything
+CTRLx2
+
+##### Run any action
+CTRL+SHIFT+A
+
 
 ## Look and Feel
 
@@ -78,6 +94,7 @@ ALT + F1
 * structure
 * VCS
 * files
+Customize - set shortcut for `Select File in Project View` CTRL+ALT+SHIFT+O
 
 ##### F12
 Goes back to last used pane. ESC to go to code.
@@ -338,14 +355,7 @@ Analyze Dependency Matrix
 * composite builds
 * polyglot maven
 
-## Java 9
-
-### Jshell
-
-* expressions, variables, classes, methods
-* `/imports /methods /vars /help `
-
-## JUnit 5
+## New Java Migration
 
 ## Puzzlers
 
@@ -356,7 +366,6 @@ Analyze Dependency Matrix
 Open with ALT + F12.
 
 ##### Exiting
-* ALT + 2 in IDEA 15
 * ALT + 9, SHIFT + ESC, ALT + F12 in IDEA 2016.1
 * CTRL + D
 
@@ -370,4 +379,4 @@ Just CTRL + F in IDEA 2016.1!
 ## Others
 * Color Picker
 * Show effective POM
-* Create Gradle new project
+* My Productivity
